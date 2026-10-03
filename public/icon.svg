@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="108" fill="#0f172a"/>
+  <circle cx="256" cy="256" r="210" stroke="#334155" stroke-width="8" fill="none"/>
+  <!-- Shield outline -->
+  <path d="M256 90 L390 145 V260 C390 345 330 415 256 445 C182 415 122 345 122 260 V145 Z" fill="#1e293b" stroke="#38bdf8" stroke-width="14" stroke-linejoin="round"/>
+  <!-- Document icon inside -->
+  <rect x="195" y="170" width="122" height="155" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="6"/>
+  <!-- Lines in document -->
+  <line x1="220" y1="210" x2="292" y2="210" stroke="#475569" stroke-width="8" stroke-linecap="round"/>
+  <line x1="220" y1="240" x2="292" y2="240" stroke="#475569" stroke-width="8" stroke-linecap="round"/>
+  <line x1="220" y1="270" x2="265" y2="270" stroke="#475569" stroke-width="8" stroke-linecap="round"/>
+  <!-- Gold badge emblem star at bottom -->
+  <polygon points="256,345 264,363 284,363 268,375 274,393 256,381 238,393 244,375 228,363 248,363" fill="#f59e0b"/>
+</svg>
